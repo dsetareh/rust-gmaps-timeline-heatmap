@@ -1,0 +1,5 @@
+.vscode
+/target
+Records.json
+heatmap.html
+heatmap_generator.exe.lnk
